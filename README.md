@@ -1,7 +1,7 @@
 # Noiszy
 
 
-Noiszy is a plugin that creates meaningless web data by navigating your browser randomly around a list of sites, to confound tracking & personalization algorithms and burst filter bubbles.
+Noiszy is a plugin that creates meaningless web data by navigating your browser randomly around a list of sites, to confound tracking & personalization algorithms and burst filter bubbles
 
 Learn more about this project at [noiszy.com](https://noiszy.com/) and the [Noiszy blog](https://noiszy.com/blog/).
 
